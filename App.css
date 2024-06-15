@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: white;
+}
+
+
+.card-body{
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(114, 114, 114);
+  color: rgb(0, 0, 0);
+  width: 50%;
+  margin: auto auto;
+  align-items: center;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  border: 2px solid black;
+  border-radius: 35px;
+  
+}
+
+.sub-block{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search{
+  width: 60%;
+  margin: 50px;
+  padding: 12px;
+  outline: none;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.56)=;
+}
+
+.ear{
+  background-color: rgb(110, 110, 110);
+}
